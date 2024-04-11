@@ -2,7 +2,7 @@
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-The goal of this webapp is to split the costs of a car pool using game theory based on the following [Articule](https://mindyourdecisions.com/blog/2011/11/01/how-to-split-a-cab-fare-fairly-using-game-theory/).
+The goal of this webapp is to split the costs of a car pool using game theory based on the following [Article](https://mindyourdecisions.com/blog/2011/11/01/how-to-split-a-cab-fare-fairly-using-game-theory/).
 
 ## Getting Started
 
