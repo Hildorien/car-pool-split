@@ -25,3 +25,4 @@ Open [http://localhost:3000](http://localhost:3000)
 2. Enter the base fare, high demand and service fees.
 3. Algorithm will return the price for each stop in the ride.
 
+![Demo!](/demo.png "Demo")
